@@ -49,28 +49,27 @@
 }
 .main-title {
     font-family:  'Permanent Marker', cursive;
+.main-text {
+    font-family: 'Ubuntu', sans-serif;
+}
 }
 .naruto-title, .naruto-text {
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
     color: rgb(221, 144, 0);
     padding: 10px 0;
 }
 .sasuke-title, .sasuke-text {
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
     color: purple;
     padding: 10px 0;
 }
 .sakura-title, .sakura-text {
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
     color: rgb(175, 41, 135);
     padding: 10px 0;
 }
 .kakashi-title, .kakashi-text {
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
     color: rgb(73, 73, 73);
     padding: 10px 0;
 }
